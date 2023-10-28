@@ -15,6 +15,3 @@ File Automation System Summary
 7. The script runs continuously, watching for new files and organizing them immediately upon detection.
 8. The user can stop the script manually, which also stops the file monitoring.
 
---- 
-
-This summary provides an overview of the project's main features and how it operates.

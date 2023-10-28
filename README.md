@@ -1,4 +1,4 @@
-File Automation System Summary
+# File Automation System Summary
 
 **Goal**: Automatically organize files in the "Downloads" folder based on their file type.
 
